@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Onkar Kadam
+- 👀 I’m interested in Python Programming, Data Science etc..
+- 🌱 I’m currently learning Python Programming, Data science etc..
